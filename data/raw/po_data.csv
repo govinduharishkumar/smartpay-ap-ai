@@ -1,0 +1,5 @@
+po_number,vendor,amount,currency,tax,date
+PO-2201,ABC Corp,12000,USD,1200,2026-05-09
+PO-2202,XYZ Ltd,8500,USD,850,2026-05-10
+PO-2203,Global Parts,14800,EUR,1500,2026-05-10
+PO-2205,Fast Components,10000,USD,900,2026-05-13
