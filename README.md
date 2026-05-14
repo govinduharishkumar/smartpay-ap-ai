@@ -502,3 +502,27 @@ Specializations:
 # 17. License
 
 This repository is intended for educational and evaluation purposes as part of an AI Architect case study submission.
+
+# Screenshots
+
+## Invoice Matching Engine
+
+![Matching Engine](docs/screenshots/matching-results.png)
+
+---
+
+## Evaluation Metrics
+
+![Evaluation](docs/screenshots/evaluation-metrics.png)
+
+---
+
+## LangGraph Workflow
+
+![Workflow](docs/screenshots/langgraph-workflow-output.png)
+
+---
+
+## Human Approval Node
+
+![Approval](docs/screenshots/human-approval-node-output.png)
